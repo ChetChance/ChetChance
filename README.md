@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChetChance
 - 👀 I’m interested in coding games, websites, and apps.
-- 🌱 I’m currently learning PHP and C++.
-- 💞️ I’m looking to collaborate on I honestly don't know.
+- 🌱 I’m currently working on a page to make a dynamic calendar.
+- 💞️ I’m looking to collaborate on I honestly don't know, I'm looking for all sorts of opportunities.
 - 📫 How to reach me ...
 
 <!---
